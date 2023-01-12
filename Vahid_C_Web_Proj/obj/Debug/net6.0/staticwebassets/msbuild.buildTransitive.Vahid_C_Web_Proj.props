@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Vahid_C_Web_Proj.props" />
+</Project>

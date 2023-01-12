@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Vahid_C_Web_Proj.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Vahid_C_Web_Proj.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\.gitignore",
+      "PackagePath": "staticwebassets\\Images\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\IMG_1227.jpg",
+      "PackagePath": "staticwebassets\\Images\\IMG_1227.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\cloud.png",
+      "PackagePath": "staticwebassets\\Images\\cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\cv-exp.png",
+      "PackagePath": "staticwebassets\\Images\\cv-exp.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\cv-highlights.png",
+      "PackagePath": "staticwebassets\\Images\\cv-highlights.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\cv-lang.png",
+      "PackagePath": "staticwebassets\\Images\\cv-lang.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\cv-skills.png",
+      "PackagePath": "staticwebassets\\Images\\cv-skills.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\eindereflectie.png",
+      "PackagePath": "staticwebassets\\Images\\eindereflectie.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\icon.png",
+      "PackagePath": "staticwebassets\\Images\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\image (1).png",
+      "PackagePath": "staticwebassets\\Images\\image (1).png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\imageedit_1_5485197173.png",
+      "PackagePath": "staticwebassets\\Images\\imageedit_1_5485197173.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\logboek.png",
+      "PackagePath": "staticwebassets\\Images\\logboek.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\me.png",
+      "PackagePath": "staticwebassets\\Images\\me.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\mountain.png",
+      "PackagePath": "staticwebassets\\Images\\mountain.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\output-seotoolscentre.png",
+      "PackagePath": "staticwebassets\\Images\\output-seotoolscentre.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\pxl.jpg",
+      "PackagePath": "staticwebassets\\Images\\pxl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\pxl.png",
+      "PackagePath": "staticwebassets\\Images\\pxl.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\Images\\pxl_logo.png",
+      "PackagePath": "staticwebassets\\Images\\pxl_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\.gitignore",
+      "PackagePath": "staticwebassets\\img\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\IMG_1227.jpg",
+      "PackagePath": "staticwebassets\\img\\IMG_1227.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\afCSharp.jpg",
+      "PackagePath": "staticwebassets\\img\\afCSharp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\cloud.png",
+      "PackagePath": "staticwebassets\\img\\cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\cv-exp.png",
+      "PackagePath": "staticwebassets\\img\\cv-exp.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\cv-highlights.png",
+      "PackagePath": "staticwebassets\\img\\cv-highlights.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\cv-lang.png",
+      "PackagePath": "staticwebassets\\img\\cv-lang.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\cv-skills.png",
+      "PackagePath": "staticwebassets\\img\\cv-skills.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\eindereflectie.png",
+      "PackagePath": "staticwebassets\\img\\eindereflectie.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\icon.png",
+      "PackagePath": "staticwebassets\\img\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\image (1).png",
+      "PackagePath": "staticwebassets\\img\\image (1).png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\imageedit_1_5485197173.png",
+      "PackagePath": "staticwebassets\\img\\imageedit_1_5485197173.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\logboek.png",
+      "PackagePath": "staticwebassets\\img\\logboek.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\me.png",
+      "PackagePath": "staticwebassets\\img\\me.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\mountain.png",
+      "PackagePath": "staticwebassets\\img\\mountain.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\img\\output-seotoolscentre.png",
+      "PackagePath": "staticwebassets\\img\\output-seotoolscentre.png"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vvvah\\source\\CProj\\Vahid_C_Web_Proj\\Vahid_C_Web_Proj\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Vahid_C_Web_Proj.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Vahid_C_Web_Proj.props",
+      "PackagePath": "build\\Vahid_C_Web_Proj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Vahid_C_Web_Proj.props",
+      "PackagePath": "buildMultiTargeting\\Vahid_C_Web_Proj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Vahid_C_Web_Proj.props",
+      "PackagePath": "buildTransitive\\Vahid_C_Web_Proj.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

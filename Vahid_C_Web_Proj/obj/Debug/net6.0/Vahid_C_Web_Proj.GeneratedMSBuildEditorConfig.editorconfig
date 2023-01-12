@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Vahid_C_Web_Proj
+build_property.RootNamespace = Vahid_C_Web_Proj
+build_property.ProjectDir = C:\Users\vvvah\source\CProj\Vahid_C_Web_Proj\Vahid_C_Web_Proj\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\vvvah\source\CProj\Vahid_C_Web_Proj\Vahid_C_Web_Proj
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Pages/Portfolio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9ydGZvbGlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/AcademieJaars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWVKYWFyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/AcademieJaars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWVKYWFyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/AcademieJaars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWVKYWFyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/AcademieJaars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWVKYWFyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Account/Identity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJZGVudGl0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Gebruiker/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VicnVpa2VyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Gebruiker/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VicnVpa2VyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Gebruiker/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VicnVpa2VyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Gebruiker/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VicnVpa2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Handboek/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZGJvZWtcY3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Handboek/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZGJvZWtcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Handboek/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZGJvZWtcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Handboek/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZGJvZWtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Inschrijving/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY2hyaWp2aW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Lector/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Lector/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdG9yXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Lector/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Lector/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Shared/_partial_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wYXJ0aWFsX2Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Vaks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFrc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vvvah/source/CProj/Vahid_C_Web_Proj/Vahid_C_Web_Proj/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-m2z8h9vo6l

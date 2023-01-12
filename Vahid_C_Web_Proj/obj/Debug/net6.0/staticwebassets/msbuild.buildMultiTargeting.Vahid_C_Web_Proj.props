@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vahid_C_Web_Proj.props" />
+</Project>

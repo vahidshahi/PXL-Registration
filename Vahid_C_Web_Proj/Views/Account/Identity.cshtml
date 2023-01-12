@@ -1,0 +1,75 @@
+﻿@model IdentityViewModel
+
+<br/>
+<a class="btn btn-block link-dark border-success" asp-controller="Account" asp-action="CreateRole">Create Role</a>
+<br/>
+
+@if (Model.Roles != null )
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>RoleName</th>
+            </tr>
+
+        </thead>
+        @foreach (var role in Model.Roles)
+        {
+            <tr>
+                <td>@role.Name</td>
+            </tr>
+        }
+    </table>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>
+                ID
+        </th>
+        <th>
+            Names
+        </th>
+        <th>
+            Users
+        </th>
+            </tr>
+        </thead>
+        //add a counter to the foreach loop
+        
+        @foreach (var role in Model.Roles)
+        {
+            <tr>
+                <td>@role.Id</td>
+                <td>@role.Name</td>
+                <td role="@role.Id"></td>
+             
+            </tr>
+        }
+        <tr>
+           
+        </tr>
+    </table>
+
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    userName
+                </th>
+                <th>
+                    email
+                </th>
+            </tr>
+        </thead>
+        @foreach (var user in Model.Users)
+        {
+            <tr>
+                <td>@user.UserName</td>
+                <td>@user.Email</td>
+            </tr>
+        }
+       
+    </table>
+}
